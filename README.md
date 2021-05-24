@@ -24,3 +24,5 @@ https://drive.google.com/file/d/1sQwic2ToW1HfjKo5IaXfqQGwjOayo6MA/view?usp=shari
 *   Predictions
 *   Accuracy
 
+This notebook compares the following machine learning models on the above dataset:
+LogisticRegression, Naive Bayes, RandomForest, Decision Tree, KNN. 
